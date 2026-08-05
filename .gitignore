@@ -1,0 +1,8 @@
+.vscode/
+out/
+coco_raw/
+coco/
+
+# Ignore models
+*.onnx
+*.engine
